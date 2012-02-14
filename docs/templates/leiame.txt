@@ -1,0 +1,17 @@
+O arquivo templateNFeClasses.php é um template para ser usado com o netbeans.
+
+Configurando:
+- Acesse o menu: Tools->Templates
+- Selecione o item: PHP
+- Clique em: Add...
+- Selecione o arquivo: <caminhoCompletoNFePHP>/docs/templates/templateNFeClasses.php e dê OK
+- Com o item: templateNFeClasses.php selecionado, clique em Rename.
+- Renomeie para: NFePHP Classes, e pressione ENTER.
+
+Usando:
+- Acesse o menu: File->New File...
+- aparecerá listado: NFePHP Classes, selecione-o e processa normalmente.
+
+Será criado um arquivo já com as informações de licença, e documentações iniciais necessárias.
+
+
